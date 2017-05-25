@@ -2,10 +2,12 @@
 #define IS_SX A5
 #define IS_DX A4
 
+#include <Sharp_IR.h>
 
 void setup() {
   // put your setup code here, to run once:
 
+  
 }
 
 void loop() {
